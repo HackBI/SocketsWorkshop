@@ -14,5 +14,6 @@ In this workshop, we cover a simple socket server which sends the date to client
 
 # Sources we used to create this tutorial
 https://docs.oracle.com/javase/tutorial/networking/sockets/
+
 https://cs.lmu.edu/~ray/notes/javanetexamples/ 
 (Our tictactoe uses some examples from this)
