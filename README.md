@@ -1,5 +1,6 @@
 # SocketsWorkshop
 Learn about sockets, which can send data between connections. 
+
 Note: You will very likely need to understand beginner to intermediate java concepts to go to this workshop.
 
 # Prerequisites
